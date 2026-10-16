@@ -1,8 +1,8 @@
 # Links Úteis
 Links de cursos e artigos úteis:
 
->	_Feliz aquele que transfere o que sabe e aprende o que ensina.
->	- Cora Coralina_
+>	Feliz aquele que transfere o que sabe e aprende o que ensina.
+>	- Cora Coralina
 
 ## Cursos (aulas ao vivo)
 [**Escola da Nuvem**](https://escoladanuvem.org/)
